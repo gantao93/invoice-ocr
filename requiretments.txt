@@ -1,0 +1,5 @@
+fitz
+PyMuPDF
+paddleocr
+pandas
+numpy
